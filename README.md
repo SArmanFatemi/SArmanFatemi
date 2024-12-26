@@ -28,12 +28,3 @@ I'm always down for a tech talk, martial arts strategies, or playing a competiti
 > "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler
 
 Here's to creating code that stands the test of time and teamwork! 🚀
-
----
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=sarmanfatemi&show_icons=true&locale=en" alt="sarmanfatemi" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarmanfatemi&show_icons=true&locale=en&layout=compact" alt="sarmanfatemi" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=sarmanfatemi" alt="sarmanfatemi" /></td>
-  </tr>
-</table>
